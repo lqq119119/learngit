@@ -6,3 +6,4 @@ I love git!
 Creating a new branch is quick and simple.
 Yes
 Creating a new branch is quick.
+Yes
